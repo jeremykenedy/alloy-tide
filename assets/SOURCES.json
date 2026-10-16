@@ -1,0 +1,13 @@
+{
+  "geometry": {"source": "Original animated beveled tile meshes and shaders", "license": "Apache-2.0"},
+  "studio_environment": {
+    "title": "Studio Small 09",
+    "author": "Sergej Majboroda",
+    "source": "https://polyhaven.com/a/studio_small_09",
+    "download": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/studio_small_09_1k.hdr",
+    "source_sha256": "e7cfda5f4e98e623db12b8bfd0184e048488e4855d9c83e2751fb44a32e80c45",
+    "license": "CC0-1.0",
+    "license_url": "https://polyhaven.com/license",
+    "conversion": "512x256 RGBM environment with maximum radiance16, encoded by tools/build_environment.py; bundled offline"
+  }
+}

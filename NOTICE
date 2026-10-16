@@ -1,0 +1,11 @@
+Alloy Tide
+Copyright 2026 Jeremy Kenedy
+
+Original geometry, shaders and application code are provided under Apache-2.0.
+
+Studio Small 09 environment
+Author: Sergej Majboroda
+Source: https://polyhaven.com/a/studio_small_09
+License: CC0 1.0 Universal, https://creativecommons.org/publicdomain/zero/1.0/
+The HDR environment is converted to an offline 512 by 256 RGBM texture.
+License texts are bundled in assets/licenses.
